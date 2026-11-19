@@ -96,6 +96,6 @@ _TCzj_ (EDIT WITH MISSING PARSTS)
 # simple linear regression model
 
 $Y=\beta_{0}+\beta_{1X}+\epsilon$, where epsilon is the error term
-Y=alpha+betaX+epsilon, where epsilon is the error term
+$Y=\alpha+\beta_x+\epsilon$, where epsilon is the error term
 
 

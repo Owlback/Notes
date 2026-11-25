@@ -6,7 +6,7 @@
 4. affected population
 5. benefits and side effects
 6. report data collection
-7. bibliography
+7. bibliographyy
 
 ## Summary (hear from the teacher)
 this report will analyze 2 alternative projects for the construction and implementation of a renewable energy plant in a mountanious area located in central Italy.

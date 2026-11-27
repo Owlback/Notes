@@ -316,10 +316,10 @@ the theory of value states that the value of a good or service is determined as 
 
 the vakue of a unit in a given commodity class, such as a house $i$, with value approximated by
 the price of the house, $p_{hi}$, is a function of a vector of characteristics:
-$$p_{hi}=f(Z_i) dioporco$$
+$$p_{hi}=f(Z_i) [EDIT]$$
 if we want to learn more about the price of *"proximity to a park"* - which can be regarded as an
 approximation of the value of air quality 
-[D I O   P O R C O]
+[EDIT]
 the HP technique is anj application of demand dependency.
 it is assumed that id the price of land in an area is prohibitibely expensive, then:
 changes in the level of environmental qualityu have no value to the household.
@@ -331,7 +331,7 @@ air quality and average house price $p_h$
 an example of a hedonic price equation for house prices that depends on house
 characteristics, neighbour characteristics, and environmental quality is:
 $$P=\beta_0+\beta_1house\space size+\beta_2bedrooms+\beta_3bathrooms+\beta_4lot\space size+\beta_5closeness\space to\space park+\beta_6air\space quality+\beta_7neighborhood\space rating+\beta_8school\space quality$$
-for example id the coefficient $\beta_6$ is [MA LA MADONNA PUTTANA]
+for example id the coefficient $\beta_6$ is [EDIT]
 
 [HO CANCELLATO COME UN COGLIONE]
 
@@ -347,19 +347,19 @@ different levels of risk of unpleasantness.
 for example, a job that is more dangerous may pay higher wage to compensate workers for the increased risk.
 
 another way to conside for the hedonic price application of markets is to estimate the values of human
-capital, which is knowledge, skills and abilities that workers acquire thru education, training [DIOMERDA]
+capital, which is knowledge, skills and abilities that workers acquire thru education, training [EDIT]
 
 limitations and potential biases:
 - omitted variables bias: when there are additional important variables that are relevant to the price
 determination but are not included in the model, these omitted variables may be correlated with both the included
 variables and the outcome variable (the price), thus leading to misleading conclusions.
-- multicollinearity: when two or more independent variables (regressor) are highly correlated with each other,
-it can cause problems in the model, leading to [QUEL GRAN COGLUOND DI GESU CRISTO]
+- multicollinearity: when two or more independent variables (EDIT) are highly correlated with each other,
+it can cause problems in the model, leading to [EDIT]
 
 limitations and potential biases:
 - choosing the functional form: the choice of the form of the hedonic price function is a critical decision.
-the functional form represents the mathematical relationship between the [SMETTILA PORCODDIO SMETTILA PORCODDIO]
-- casuality and endogeneity: [SAI GIÀ COME FUNZIONA]
+the functional form represents the mathematical relationship between the [EDIT]
+- casuality and endogeneity: [EDIT]
 - section bias:
 - market segmentation:
 - data availability and quality:

@@ -203,3 +203,166 @@ working through _p=£10_ and so on:
 - crowding and congestion
 - assignment of costs to components of multi-purpouse trips is problematic
 - substitute sites
+
+# 26/11/2026
+
+Economic evaluation of environmental resources, methods, form individuals to the population.
+We have information to be considered by the decisono making process, without the right data
+it could under/overestimate some non market values of the assets. 
+resource valuation methods give *samples* to the decisiion making.
+it allows to assess whether the expectes benefirs of a project justify the costs.
+
+(usually in the final part of the questionnaire we have to ask about
+some socioeconomics data of people, like housing, income, yearly income, household income
+(in this case also add questions about the other members of the household)
+in case you or the population don't want to ask/respond about income, ask about **spending**)
+
+*there are rules on the use of AI from UNIBO. link is on the [class' virtuale](https://virtuale.unibo.it/).*
+
+### three questions
+1. can we justify the conservation of a natural resource even if very
+few people visit it?
+2. if people are willing to pay for an environmental improvement, does
+this automatically mean that the prokect should be implemented?
+3. what happens to public investment decisions when environmental benefits
+are excluded from CBA?
+
+**consideration**: what's not measurd is often not considered and what is 
+not considered in public decision-making risks being undervalued or lost
+
+this is the reason why environmental economists need valuation methods, if
+we exclude benefits linked to nature there's the risk of a poor decision.
+
+**example**: without non-market valuation, the CBA might look like this:
+$NPV=PV(B_{market})-PV(C)$
+
+by incorporating non.market values, the assesment becomes MA PORCODIO
+
+Other important methodological issues:
+1. incremental valuation, considering what the project will evolve, what could
+be the gains and the costs, the value isnt the total value of the ecosystem but
+the change in welfare resulting from the proposed intervention compared with the
+baseline scenario
+2. avoid double counting, for example, recreational bemefits esitimated through TCM should not be
+added to tourism expenditures as of thje two were independent meassures of welfare.
+similarly, ecosystem service already included in a valuation estimate should not be counted again.
+3. aggregation and how representativeness is considered, an individual's WTP must be aggregated using
+an appropriate orr household estimate.
+understand the importance of sampling, survey design, income distribution, payment vehicles and the time
+horizon of the analysis.
+
+another method inside the revealed preference method group is **hedonic pricing**
+HPM is usually but not exclusively applied to property market within which many environmental
+goods are implicitly traded.
+households reveal their preferences for these goods through their decision about where to locate.
+
+HP estimates the value of specific environmental attributes (*e.g.* air quality or green spaces or noise
+levels) on property prices.
+[MISSING PART]
+
+the HPM is commonly used to estiunmate the values of environmental amenities or features
+- air quality
+- approximity to parks
+- access to natural landscapes
+- noise levels
+- odor problems
+
+### areas in which its used
+
+- housing prices
+- wage-amenity studies
+- wage studies/value health risks/value of statistical life (VoSL)
+
+## value of statistical life (VoSL or VSL)
+*the value of life sounds like and existential question, more suited for philosophers than economists.*
+
+another context in which we are used to give a value to human life is **inasurance**
+in the insaurance context we actually have monetary figures for life, associated to things like
+health, age, *etc.*
+
+if we consider economic decisions that reflect a value thats placed on a life, or the value on reducing
+the risk or dying, we might pay more for safer food, house, safer neighborhood *etc.*
+
+the **"value of statistical life"** (VSL) will be covered tomorrow.
+
+### steps of the HPM
+
+1. data collection
+2. regression analysis, to identify the relationship between  the observed prices (dependent variable)
+and the various attributes of the product (independent variable).
+the attributes could include environmental factors, location. property size, number of bedrooms, and other relevant features.
+3. estimation of <u>implicit prices</u>
+4. economic evaluation
+
+Some examples:
+- education
+- health care (value of healthcare)
+- labour market
+
+## Hedonic pricing, case study
+**odor problem, animal waste processing, Belgium**
+
+An animal waste treatment facility that collects and processes carcasses and animal by-products.
+the processing of animal waste decomposing and transport by lorries.
+implemented measures to alleviate the odor problem: bio filters, insulated buildings and lorries.
+
+however, *problem is still present*.
+
+### rumber of residential houses in different odour zones
+[INCLUDE TABLES]
+
+## HPM theory
+the theory of value states that the value of a good or service is determined as a function.
+
+the vakue of a unit in a given commodity class, such as a house $i$, with value approximated by
+the price of the house, $p_{hi}$, is a function of a vector of characteristics:
+$$p_{hi}=f(Z_i) dioporco$$
+if we want to learn more about the price of *"proximity to a park"* - which can be regarded as an
+approximation of the value of air quality 
+[D I O   P O R C O]
+the HP technique is anj application of demand dependency.
+it is assumed that id the price of land in an area is prohibitibely expensive, then:
+changes in the level of environmental qualityu have no value to the household.
+
+an hedonic price equation takes this form:
+$$p_h=p(S_i,N_j,Q_k)+\epsilon$$
+If we consider air quality *vs* house prices: a concave relationship between
+air quality and average house price $p_h$
+an example of a hedonic price equation for house prices that depends on house
+characteristics, neighbour characteristics, and environmental quality is:
+$$P=\beta_0+\beta_1house\space size+\beta_2bedrooms+\beta_3bathrooms+\beta_4lot\space size+\beta_5closeness\space to\space park+\beta_6air\space quality+\beta_7neighborhood\space rating+\beta_8school\space quality$$
+for example id the coefficient $\beta_6$ is [MA LA MADONNA PUTTANA]
+
+[HO CANCELLATO COME UN COGLIONE]
+
+bid curves show all those combinations of prices and levels of the quality attribute that leave the buyer
+at the same level of utility.
+
+this is more or less the theory behinf hedonic price application in transactions.
+
+when considering it in markets:
+
+one qay is to estimate the compensating wage differential, which is the difference in wages between two jobs that have
+different levels of risk of unpleasantness.
+for example, a job that is more dangerous may pay higher wage to compensate workers for the increased risk.
+
+another way to conside for the hedonic price application of markets is to estimate the values of human
+capital, which is knowledge, skills and abilities that workers acquire thru education, training [DIOMERDA]
+
+limitations and potential biases:
+- omitted variables bias: when there are additional important variables that are relevant to the price
+determination but are not included in the model, these omitted variables may be correlated with both the included
+variables and the outcome variable (the price), thus leading to misleading conclusions.
+- multicollinearity: when two or more independent variables (regressor) are highly correlated with each other,
+it can cause problems in the model, leading to [QUEL GRAN COGLUOND DI GESU CRISTO]
+
+limitations and potential biases:
+- choosing the functional form: the choice of the form of the hedonic price function is a critical decision.
+the functional form represents the mathematical relationship between the [SMETTILA PORCODDIO SMETTILA PORCODDIO]
+- casuality and endogeneity: [SAI GIÀ COME FUNZIONA]
+- section bias:
+- market segmentation:
+- data availability and quality:
+- heterogeneity of preferences:
+- spatial and temporal variation:
+- monoconcentric bias:
